@@ -1,3 +1,5 @@
+#v1.0
+
 host="fabmedical-[SUFFIX].documents.azure.com"
 username="fabmedical-[SUFFIX]"
 password="[PASSWORD]"
