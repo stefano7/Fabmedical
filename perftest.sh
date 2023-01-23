@@ -1,4 +1,4 @@
-#v1.0
+#v2.0
 
 host="fabmedical-[SUFFIX].documents.azure.com"
 username="fabmedical-[SUFFIX]"
